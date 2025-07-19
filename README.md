@@ -3,14 +3,14 @@
 ## Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,html,css,illustrator,photoshop,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,html,css,illustrator,photoshop,vscode&theme=light" />
   </a>
 </p>
 
 ## Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,p5js,angular,rust,golang,swift,blender,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=p5js,angular,rust,golang,swift,blender,figma&theme=light" />
   </a>
 </p>
 
