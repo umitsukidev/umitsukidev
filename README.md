@@ -10,7 +10,7 @@
 ## Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nest,p5js,nuxt,astro,angular,rust,golang,swift,zig,blender,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=threejs,p5js,nuxt,astro,nest,rust,golang,swift,zig,blender,figma&theme=light" />
   </a>
 </p>
 
