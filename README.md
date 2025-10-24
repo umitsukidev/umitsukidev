@@ -1,25 +1,32 @@
 # Hi, there 👋
 
 ## Skills 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,vue,html,css,illustrator,photoshop,vscode&theme=light" />
   </a>
 </p>
 
 ## Studying
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,p5js,nuxt,astro,nest,rust,golang,swift,zig,blender,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=threejs,p5js,nuxt,astro,nest,blender,figma&theme=light" />
+  </a>
+</p>
+
+## Want to Study
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,golang,swift,zig&theme=light" />
   </a>
 </p>
 
 ## Activities
-<p align="center" width="90%"> 
+<p align="left" width="90%"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grakeice&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=grakeice&show_icons=ture" />
 </p>
-<p align="center">
+<p align="left">
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=grakeice" />
 </p>
 
