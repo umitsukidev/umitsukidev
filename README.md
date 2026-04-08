@@ -10,7 +10,7 @@
 ## Studying
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,p5js,astro,nest,blender,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,processing,threejs,p5js,astro,blender,figma&theme=light" />
   </a>
 </p>
 
