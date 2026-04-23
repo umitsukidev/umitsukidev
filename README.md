@@ -3,7 +3,14 @@
 ## Skills 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,next,vue,nuxt,html,css,illustrator,photoshop,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,next,vue,nuxt,html,css,illustrator,photoshop&theme=light" />
+  </a>
+</p>
+
+## I use
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode&theme=light" />
   </a>
 </p>
 
