@@ -17,14 +17,14 @@
 ## Studying
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,processing,threejs,p5js,astro,blender,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,kotlin,processing,threejs,p5js,astro,blender,figma&theme=light" />
   </a>
 </p>
 
 ## Want to Study
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,golang,swift,zig&theme=light" />
+    <img src="https://skillicons.dev/icons?i=golang,swift,zig&theme=light" />
   </a>
 </p>
 
