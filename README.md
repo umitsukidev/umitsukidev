@@ -3,28 +3,28 @@
 ## Skills 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,next,vue,nuxt,html,css,illustrator,photoshop&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,astro,react,next,vue,nuxt,html,css,illustrator,photoshop&theme=light&perline=5" />
   </a>
 </p>
 
 ## I use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode&theme=light&perline=5" />
   </a>
 </p>
 
 ## Studying
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,kotlin,processing,threejs,p5js,astro,blender,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=rust,svelte,kotlin,processing,threejs,p5js,blender,figma&theme=light&perline=5" />
   </a>
 </p>
 
 ## Want to Study
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,swift,zig&theme=light" />
+    <img src="https://skillicons.dev/icons?i=golang,swift,zig&theme=light&perline=5" />
   </a>
 </p>
 
