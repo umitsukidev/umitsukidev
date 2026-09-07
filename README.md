@@ -28,14 +28,6 @@
   </a>
 </p>
 
-## Activities
-<p align="left" width="90%"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grakeice&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=grakeice&show_icons=ture" />
-</p>
-<p align="left">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=grakeice" />
-</p>
 
 
 <!--
